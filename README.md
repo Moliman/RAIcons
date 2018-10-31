@@ -12,7 +12,7 @@ Note:
 
 * You have to refresh it manually
 
-* It will alway show the most recent game
+* It alway show the most recent game
 
 
 ![GitHub Logo](https://github.com/Moliman/RAIcon/blob/master/Demo.png)
