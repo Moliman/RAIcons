@@ -1,0 +1,29 @@
+div, h4, br {
+  display: none;
+  font-size: 0;
+}
+
+body {
+  display: inline;
+}
+body #mainpage {
+  display: inline;
+}
+body #mainpage #leftcontainer {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body #mainpage #leftcontainer .userpage {
+  display: inline;
+}
+body #mainpage #leftcontainer .userpage .userpagegames:first-of-type {
+  display: inline;
+}
+
+#leftcontainer {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
