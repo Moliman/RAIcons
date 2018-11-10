@@ -13,7 +13,7 @@ Be aware that instructions are made for OBS, but it can used used elsewhere.
 The page won't automaticly refresh after a new achivement. You'll need to do it yourself by following one of those two solutions:
 
 ### A) 
-Go on Properties section of the source and check << Shutdown source when not visible >>. Now, follow one of these two options:
+Go on properties section of the source and check << Shutdown source when not visible >>. Now, follow one of these two options:
 
  - After binding a hotkey to check and uncheck the visibility of the webpage. You can bind the same one and click two times to trig the refresh. 
  - If you don't want to bind a key, you can just check and uncheck the visibility of the source.
