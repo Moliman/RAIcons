@@ -23,8 +23,8 @@ Go on Properties section of the source and check << Shutdown source when not vis
 Go on the properties section of the source and click on << Refresh cache of current page >> (Not recommended since it will delete the cache and load the page way more slower).
 
 
-### Notes
+## Notes
 * It always show the most recent game
 
-
+## Result
 ![GitHub Logo](https://github.com/Moliman/RAIcon/blob/master/Demo.png)
